@@ -1,4 +1,5 @@
 # gravechain
 
 
-hosted version : https://dynnaro.github.io/gravechain
+hosted version : https://dynnaro.github.io/gravechain/design
+
